@@ -1,0 +1,46 @@
+{
+  "name": "Chatbotin #4",
+  "symbol": "",
+  "description": "Chatbotin por los mundos de los NFTs",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/danibauti94/Chatbotin-NFT/main/assets/4.png",
+  "external_url": "",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Fondo",
+      "value": "morado"
+    },
+    {
+      "trait_type": "Estado",
+      "value": "sorpresa"
+    },
+    {
+      "trait_type": "Gafa",
+      "value": "gafarojoazul"
+    },
+    {
+      "trait_type": "RANK",
+      "value": 4
+    }
+  ],
+  "collection": {
+    "name": "Chatbotin #4",
+    "family": "Chatbotin"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "E6wWTGC8NUcknQk4YZG93ahU6QSJYsq1yPGBD22oWP4U",
+        "share": 100
+      }
+    ]
+  }
+}
