@@ -3,21 +3,21 @@
   "symbol": "",
   "description": "Chatbotin por los mundos de los NFTs",
   "seller_fee_basis_points": 1000,
-  "image": "/1.png",
+  "image": "https://raw.githubusercontent.com/danibauti94/Chatbotin-NFT/main/assets/1.png",
   "external_url": "",
   "edition": 1,
   "attributes": [
     {
       "trait_type": "Fondo",
-      "value": "rojo"
+      "value": "blanco"
     },
     {
       "trait_type": "Estado",
-      "value": "dormido"
+      "value": "risa"
     },
     {
       "trait_type": "Gafa",
-      "value": "gafarojoazul"
+      "value": "gafapasta"
     }
   ],
   "collection": {
